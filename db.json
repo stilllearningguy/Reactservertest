@@ -1,0 +1,11 @@
+{
+  "person ": [
+    {
+      "id": 1,
+      "firstName": "person1",
+      "email": "person1@gmail.com",
+      "age": 23,
+      "phoneNumber": 22845317
+    }
+  ]
+}

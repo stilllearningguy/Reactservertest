@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "person": [
     {
+      "firstName": bayrem
       "id": 1,
-      "title": "hello"
+      "email": bayrem@gg.com
+      "age": 22
+      "phoneNumber": 22845317
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
